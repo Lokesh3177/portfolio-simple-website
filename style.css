@@ -1,0 +1,109 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+
+
+
+    font-family: "Lexend", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+   
+
+}
+
+.container {
+    padding: 50px;
+    
+}
+
+.section-one {
+    background-color:aquamarine;
+    padding: 10px;
+    color: black;
+}
+
+.section-one__contact {
+    background-color: orange;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+    padding-left: 5px;
+    
+
+
+}
+
+.section-one__name {
+    font-size: 60px;
+
+}
+.section-one__role{
+    font-size: 35px;
+    margin-top: 10px;
+}
+.section-two,.section-three,.section-four,.section-five{
+    margin-top: 20px;
+}
+.section-five{
+    background-color: aquamarine;
+    padding: 20px;
+}
+.section-three li,.section-four li{
+    list-style: none;
+}
+.section-three{
+    background-color: cornflowerblue;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10px;
+    height: 150px;
+    vertical-align: top;
+    color: white;
+
+
+}
+.section-four{
+
+    background-color: orchid;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10px;
+    height: 150px;
+    vertical-align: top;
+    color: white;
+}
+.contact-form{
+    margin-top: 10px;
+    
+}
+
+.contact-form__input,.contact-form__textarea,.contact-form__submitt{
+    
+   margin-top: 10px;
+
+}
+.contact-form__input{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+.contact-form__textarea{
+    padding: 10px;
+    border: solid black 1px;
+}
+.contact-form__submit{
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}

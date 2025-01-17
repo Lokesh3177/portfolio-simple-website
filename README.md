@@ -22,4 +22,5 @@ This is a personal portfolio website created using **HTML** and **CSS**. It cons
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://lokesh3177.github.io/portfolio-simple-website/
+## thanks for visting my website
